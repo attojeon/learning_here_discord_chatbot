@@ -6,3 +6,6 @@ __pycache__
 *.ans.py
 config.py 
 atomarket-secret.json
+
+# 
+.gitignore
