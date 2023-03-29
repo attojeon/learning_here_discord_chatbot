@@ -8,7 +8,5 @@
 ```python
 pip install requests 
 pip install discord.py 
-pip install firebase-admin
-pip install pyrebase4
 ```
 
